@@ -8,4 +8,4 @@ dfjaqpfgojeagpfvmpefv
 # New section
 dfsadfoaöfdoaishfdio
 ## Second heading of new section
-[Contribution guidelines for this project](introduction.md)
+[Contribution guidelines for this project](Introduction.md)
